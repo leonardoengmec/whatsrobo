@@ -1,2 +1,0 @@
-# whatsrobo
-Robô do whatsapp
